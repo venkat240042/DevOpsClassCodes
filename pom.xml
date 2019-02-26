@@ -424,7 +424,7 @@
                         <configuration>
                             <formats>
                                 <format>html</format>
-                                <format>xml</format>
+                                <format>PDF</format>
                             </formats>
                         </configuration>
                     </plugin>
